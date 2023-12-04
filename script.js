@@ -9,7 +9,9 @@ function showOrderedMessage() {
         "Waise ek baat bolu, aap naa best part rahi iss saal meri life ka and I know aap next year usse next usse bhi next, till life Naina Didi aap best part raogi meri life main☺️",
         "Waise mai shellfish to nahi hona chahta but yaar sacchi bolu ek week kese niklega bina aapse baat kiye baki I know you need some time and I totally respet that🤗",
         "Baki Naina Didi aap itna mat socha karo bs let me know, arre fir chahe raat hori ho kisi bhi time just call me😂",
-        ""
+        "Naina didi, you know what? Everyone loves you, You are a good sister, daughter, friend and the most important you are a good person Naina didi.",
+        "Everyone has their diamonds some can shine, some can be bright but mine is the most precious one😎",
+        "Chahe kuch bhi hojaye, I' am always with you....😊"
     ];
 
     const messageFrame = document.getElementById("message-frame");
